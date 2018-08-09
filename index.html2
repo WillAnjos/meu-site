@@ -1,9 +1,9 @@
 <html>
     <head>
-    	<title>Proposta dasds asdasfasdfsadfsdfsd</title>
+        <link rel="stylesheet" href="estilo.css"
     </head>
     <body>
-    	
+    	<h1>Git</h1>
         <h1>Paragrafo - teste de modificacao</h1>
         <h1>Projeto do Will Fonseca americado do Sul</h1>
         <main>isso e conteudo da pagina bla asdfasdfasdf </main>
